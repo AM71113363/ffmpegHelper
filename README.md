@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="669" height="337" src="https://github.com/AM71113363/logo.png">
+<img align="center" width="669" height="337" src="https://raw.githubusercontent.com/AM71113363/ffmpegHelper/main/info.png">
 </p>
 
 # FFMPEG CMD Helper.
