@@ -27,7 +27,6 @@ Set "Start" fields 00 52 21<br>
 Set "End"   fields 01 22 45<br>
 Click [ Cut ]<br>
 Click [ Start ]<br>
-<br>
 * ACTION: RESIZE the VIdeo from QHD or FHD to 960x480<br>
 Click [ Size]<br>
 Change Manually "1920:960" to "960:480"<br>
