@@ -35,7 +35,7 @@ Click [ Start ]<br>
 ## Build.
 _for beginners_ <br>
 1.Download [DevCpp_v4.9.9.*](http://www.bloodshed.net/) and install it.<br>
-2.Run build.bat (it works only with Compiler:  Dev-C++ 4.9.9.*).<br>
+2.Run build.bat (it works only with Dev-C++ 4.9.9.*).<br>
 _others_ <br>
 You already know how to rebuilt it. ^_^<br>
 <br>
